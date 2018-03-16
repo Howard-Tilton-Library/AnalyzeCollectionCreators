@@ -1,0 +1,2 @@
+# AnalyzeCollectionCreators
+This is a work-in-progress workflow for harvesting MARC records, pulling and refining that data using MARCEdit and OpenRefine, and then using Python to scrape websites for (currently pronouns) to analyze the (currently gender) of the creators. This workflow aims to be easily adaptable so that we can eventually gather data about the ratio of male to female authors, or birth dates of artists, or location of places covered in our various collections.
