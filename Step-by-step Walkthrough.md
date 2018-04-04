@@ -30,6 +30,8 @@ Do analysis to assess what percentage of this subset of DVDs have female directo
 ### Run again on the entire data set
 
 ### Edit and run again on a slightly different data set
+* if 100 e is composer or 700 4 is cmp or e is composer, return data
+* if composer is of African Descent
 * 655 of poetry and gender of the 100 field if present?
 * 651 of LaColl and places associated with the 1xx?
 * birth date of authors in LAL?
