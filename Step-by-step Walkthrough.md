@@ -24,8 +24,12 @@ We've decided to start with wikipedia's female directors list, and then harvest 
 This step may become the same as the step before. It may require a complicated string analysis of pronouns and concatenation of
 the prominent pronoun into the data. We'll see!
 
+For wikipedia, we just copied the names into an excel file, opposite a column with names of the directors pulled from a text facet in OpenRefine. 
+
 ### Import the revise txt into an Analytics tool
 Do analysis to assess what percentage of this subset of DVDs have female directors.
+
+With the initial sample compared to the list of directors on wikipedia, we inferred that 2/200 or 1% of our sample films were directed by women.
 
 ### Run again on the entire data set
 
