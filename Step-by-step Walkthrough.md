@@ -18,7 +18,16 @@ This is the current step. It will likely be an interative process of trying a pa
 easiest to pull only gender data about only these people. We may have to pull a set of pronouns from each webpage and assume
 gender based on the dominant pronouns.
 
-We've decided to start with wikipedia's female directors list, and then harvest the more complicated data on wmm.com Women Make Movies, which may require edits to the txt file related to the title fields.
+We've decided to start with 3 sources that could be harvested with copy and paste: 
+1. [Wikipedia's female directors list](https://en.wikipedia.org/wiki/List_of_female_film_and_television_directors)(harvested 4/6/2018)
+2. Annenberg Inclusion Initiative's [Inclusion in the Director's Chair](http://assets.uscannenberg.org/docs/inclusion-in-the-directors-chair-2007-2017.pdf), pg. 6 (harvested 5/14/2018)
+3. Collider.com's [The Most Exciting Female Directors Working Today](http://collider.com/best-female-directors/) (havested 5/14/2018)
+
+The following sites should be harvested and unique entries added to our list:
+1. [Women Make Movies](wmm.com)
+2. [Alliance of Women Directors](https://www.allianceofwomendirectors.org/find-a-director/) 
+* can be harvested on <h2 data-label="Firstname" class="wppb-name">!
+
 
 ### Pull the data from the webpage scraping back into our dataset
 This step may become the same as the step before. It may require a complicated string analysis of pronouns and concatenation of
