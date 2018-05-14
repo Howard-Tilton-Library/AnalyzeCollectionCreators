@@ -31,6 +31,8 @@ Do analysis to assess what percentage of this subset of DVDs have female directo
 
 With the initial sample compared to the list of directors on wikipedia, we inferred that 2/200 or 1% of our sample films were directed by women.
 
+We may get better results using the (Microsoft Fuzzy Look-up tool)[http://www.k2e.com/tech-update/tips/431-tip-fuzzy-lookups-in-excel] during this part of the process.
+
 ### Run again on the entire data set
 
 ### Edit and run again on a slightly different data set
