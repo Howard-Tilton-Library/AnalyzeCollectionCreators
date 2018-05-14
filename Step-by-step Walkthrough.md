@@ -26,7 +26,15 @@ We've decided to start with 3 sources that could be harvested with copy and past
 The following sites should be harvested and unique entries added to our list:
 1. [Women Make Movies](wmm.com)
 2. [Alliance of Women Directors](https://www.allianceofwomendirectors.org/find-a-director/) 
-* can be harvested on <h2 data-label="Firstname" class="wppb-name">!
+  * can be harvested on `<h2 data-label="Firstname" class="wppb-name">`
+3. https://www.dga.org/Employers/EmployersSearch.aspx
+4. https://www.ranker.com/list/best-female-directors/jeff419
+5. http://www.denofgeek.com/us/movies/female-directors/252810/26-female-directors-you-should-know-about-and-why-you-might-not
+6. http://www.vulture.com/2015/10/100-women-directors-hollywood-should-be-hiring.html
+7. https://www.allianceofwomendirectors.org/find-a-director/
+8. Is there a page where google hosts all the carousel data at the top of this search: https://www.google.com/search?client=firefox-b-1-ab&ei=GtP5WviODOXCjwTfsanQAw&q=list+of+directors+female&oq=list+of+directors+female&gs_l=psy-ab.3..0i22i30k1l10.4338.5350.0.5982.7.6.0.0.0.0.170.776.0j6.6.0....0...1c.1.64.psy-ab..1.6.772...0.0.KB_gfxzfI_4
+o	http://www.thedirectorlist.com/database/
+
 
 
 ### Pull the data from the webpage scraping back into our dataset
