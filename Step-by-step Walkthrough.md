@@ -33,15 +33,13 @@ The following sites should be harvested and unique entries added to our list:
 6. http://www.vulture.com/2015/10/100-women-directors-hollywood-should-be-hiring.html
 7. https://www.allianceofwomendirectors.org/find-a-director/
 8. Is there a page where google hosts all the carousel data at the top of this search: https://www.google.com/search?client=firefox-b-1-ab&ei=GtP5WviODOXCjwTfsanQAw&q=list+of+directors+female&oq=list+of+directors+female&gs_l=psy-ab.3..0i22i30k1l10.4338.5350.0.5982.7.6.0.0.0.0.170.776.0j6.6.0....0...1c.1.64.psy-ab..1.6.772...0.0.KB_gfxzfI_4
-o	http://www.thedirectorlist.com/database/
-
-
+9.	http://www.thedirectorlist.com/database/
 
 ### Pull the data from the webpage scraping back into our dataset
 This step may become the same as the step before. It may require a complicated string analysis of pronouns and concatenation of
 the prominent pronoun into the data. We'll see!
 
-For wikipedia, we just copied the names into an excel file, opposite a column with names of the directors pulled from a text facet in OpenRefine. 
+For wikipedia, we just copied the names into an excel file, opposite a column with names of the directors pulled from a text facet in OpenRefine. I later used ASAP Utilities to remove all diacritics from the names.
 
 ### Import the revise txt into an Analytics tool
 Do analysis to assess what percentage of this subset of DVDs have female directors.
