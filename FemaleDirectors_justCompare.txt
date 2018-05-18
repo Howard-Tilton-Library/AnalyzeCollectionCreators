@@ -1,0 +1,2850 @@
+Name	Number of Occurrences		FemaleDirIsIn245
+Abby Epstein	5		Abby Epstein
+Abby Ginzberg	2		Abby Ginzberg
+Agnes Varda	2		Agnes Varda
+Alice Wu	1		Alice Wu
+Allison Anders	3		Allison Anders
+Amy Heckerling	3		Amy Heckerling
+Amy Serrano	1		Amy Serrano
+Ana Lily Amirpour	1		Ana Lily Amirpour
+Andrea Arnold	1		Andrea Arnold
+Anna Boden	1		Anna Boden
+Anne Wheeler	2		Anne Wheeler
+Annemarie Jacir	2		Annemarie Jacir
+Aparna Sen	1		Aparna Sen
+Barbara Kopple	2		Barbara Kopple
+Barbra Streisand	2		Barbra Streisand
+Beth Murphy	4		Beth Murphy
+Byambasuren Davaa	1		Byambasuren Davaa
+Cate Shortland	1		Cate Shortland
+Catherine Hardwicke	1		Catherine Hardwicke
+Christine Jeffs	1		Christine Jeffs
+Claire Denis	1		Claire Denis
+Courtney Hunt	1		Courtney Hunt
+Darnell Martin	2		Darnell Martin
+Deborah Kampmeier	1		Deborah Kampmeier
+Debra Granik	2		Debra Granik
+Dee Rees	2		Dee Rees
+Deepa Mehta	7		Deepa Mehta
+Dorothy Arzner	1		Dorothy Arzner
+Euzhan Palcy	3		Euzhan Palcy
+Fina Torres	1		Fina Torres
+Forough Farrokhzad	1		Forough Farrokhzad
+Franny Armstrong	1		Franny Armstrong
+Gurinder Chadha	2		Gurinder Chadha
+Iciar Bollain	1		Iciar Bollain
+Ida Lupino	1		Ida Lupino
+Isabel Coixet	1		Isabel Coixet
+Jamie Babbit	1		Jamie Babbit
+Jane Campion	3		Jane Campion
+Jasmila Zbanic	2		Jasmila Zbanic
+Jennifer Baichwal	2		Jennifer Baichwal
+Jennifer Fox	2		Jennifer Fox
+Jennifer Phang	1		Jennifer Phang
+Jennifer Siebel Newsom	1		Jennifer Siebel Newsom
+Jessie Nelson	1		Jessie Nelson
+Joan Micklin Silver	1		Joan Micklin Silver
+Julia Leigh	1		Julia Leigh
+Julie Dash	3		Julie Dash
+Julie Taymor	1		Julie Taymor
+Karyn Kusama	3		Karyn Kusama
+Kasi Lemmons	1		Kasi Lemmons
+Kathryn Bigelow	8		Kathryn Bigelow
+Kim Longinotto	3		Kim Longinotto
+Lauren Greenfield	1		Lauren Greenfield
+Lee Grant	2		Lee Grant
+Leni Riefenstahl	2		Leni Riefenstahl
+Lesli Linka Glatter	1		Lesli Linka Glatter
+Leyla Bouzid	1		Leyla Bouzid
+Li Yu	1		Li Yu
+Liliana Cavani	2		Liliana Cavani
+Lina Wertmuller	1		Lina Wertmuller
+Lisa Cholodenko	1		Lisa Cholodenko
+Liz Garbus	1		Liz Garbus
+Lizzie Borden	1		Lizzie Borden
+Lone Scherfig	1		Lone Scherfig
+Lucy Walker	2		Lucy Walker
+Lynne Ramsay	1		Lynne Ramsay
+Maggie Greenwald	1		Maggie Greenwald
+Mai Zetterling	2		Mai Zetterling
+Mania Akbari	1		Mania Akbari
+Maren Ade	1		Maren Ade
+Margaret Lazarus	1		Margaret Lazarus
+Maria Maggenti	1		Maria Maggenti
+Mary Harron	1		Mary Harron
+Maya Deren	3		Maya Deren
+Mimi Leder	1		Mimi Leder
+Mina Shum	1		Mina Shum
+Mira Nair	7		Mira Nair
+Monika Treut	3		Monika Treut
+Nancy Kates	2		Nancy Kates
+Naomi Kawase	1		Naomi Kawase
+Ngozi Onwurah	3		Ngozi Onwurah
+Niki Caro	1		Niki Caro
+Nina Menkes	1		Nina Menkes
+Ning Ying	1		Ning Ying
+Nora Ephron	1		Nora Ephron
+Ondi Timoner	1		Ondi Timoner
+Pamela Fryman	1		Pamela Fryman
+Pamela Yates	5		Pamela Yates
+Patricia Rozema	1		Patricia Rozema
+Patty Jenkins	2		Patty Jenkins
+Penny Marshall	1		Penny Marshall
+Pratibha Parmar	1		Pratibha Parmar
+Randa Haines	1		Randa Haines
+Rea Tajiri	1		Rea Tajiri
+Rebecca Miller	2		Rebecca Miller
+Ronit Avni	1		Ronit Avni
+Rose Troche	1		Rose Troche
+Ruby Yang	1		Ruby Yang
+Sabiha Sumar	1		Sabiha Sumar
+Sally Potter	3		Sally Potter
+Sarah Gavron	2		Sarah Gavron
+Sarah Polley	1		Sarah Polley
+Shari Springer Berman	1		Shari Springer Berman
+Shirin Neshat	1		Shirin Neshat
+Sofia Coppola	2		Sofia Coppola
+Sophie Fiennes	3		Sophie Fiennes
+Susan Stroman	1		Susan Stroman
+Susanna White	2		Susanna White
+Tamra Davis	2		Tamra Davis
+Tata Amaral	1		Tata Amaral
+Tiffany Shlain	1		Tiffany Shlain
+Tracey Deer	1		Tracey Deer
+Tracy Flannigan	1		Tracy Flannigan
+Xiao Jiang	1		Xiao Jiang
+Yamina Benguigui	1		Yamina Benguigui
+Yasmin Ahmad	2		Yasmin Ahmad
+Yvonne Rainer	1		Yvonne Rainer
+A	1		
+Aamir Khan	1		197
+Aaron Walker	2		
+Aaron Woolf	2		
+Abbas Kiarostami	5		
+Abby Mann	1		
+Abdellatif Kechiche	1		
+Abderrahmane Sissako	2		
+Abraham Leff	1		
+Abraham Polonsky	1		
+Abram Room	1		
+Abrar Alvi	1		
+Ada Ushpiz	1		
+Adam Arkin	1		
+Adam Curtis	2		
+Adam Mc	2		
+Adam Pertofsky	1		
+Adam Pogoff	1		
+Adama Drabo	1		
+Aditya Chopra	1		
+Adolfo Doring	1		
+Adrian Hall	1		
+Adrian Lyne	2		
+Adrian Pennink	1		
+Adriana Barbaro	1		
+Adriana Bosch	4		
+Ahmed Badrakhan	1		
+Aishah Shahidah Simmons	1		
+Aki Kaurismaki	1		
+Akira Kurosawa	9		
+Al Reinert	1		
+Alain Berliner	2		
+Alain Resnais	3		
+Alan Berliner	5		
+Alan J	5		
+Alan Parker	3		
+Alan Ritsko	1		
+Alan Rudolph	1		
+Alan Schneider	1		
+Alan Taylor	1		
+Alastair Reid	1		
+Alba Sotorra Clua	1		
+Albert Maysles	2		
+Albert Parker	2		
+Albert Serra	1		
+Alberto Arvelo	1		
+Alberto Cavalcanti	1		
+Alberto Rodriguez	1		
+Alberto Sironi	1		
+Alejandro Amenabar	4		
+Alejandro G	2		
+Alejandro Gonzalex Inarritu	1		
+Alejandro Gonzalez Inarritu	1		
+Alejandro Jodorowsky	1		
+Alejandro Landes	1		
+Alejondro Amenabar	1		
+Aleksander Ford	1		
+Aleksandr Sokurov	1		
+Aleksei Balabanov	1		
+Alex Cox	1		
+Alex De Verteuil	1		
+Alex Gibney	1		
+Alex Proyas	2		
+Alex Rivera	1		
+Alex Segal	1		
+Alex Traiman	3		
+Alexander Dovzhenko	1		
+Alexander Korda	1		
+Alexander Mackendrick	3		
+Alexander Proshkin	1		
+Alexander Rogozhkin	1		
+Alexander Sokurov	8		
+Alexandra Lescaze	1		
+Alexandre O	1		
+Alexandro Jodorowsky	1		
+Alexey Balabanov	1		
+Alfonso Arau	1		
+Alfonso Cuaron	3		
+Alfred Hitchcock	40		
+Alfred Radok	1		
+Ali	1		
+Ali Raffi	1		
+Ali Samadi Ahadi	1		
+Alice Markowitz	1		
+Alicky Sussman	1		
+Alile Sharon Larkin	1		
+Alison Klayman	1		
+Allan Dwan	3		
+Allan Moyle	1		
+Allen Mondell	1		
+Allison Argo	1		
+Allison Berg	1		
+Allison Bohl	1		
+Almudena Carracedo	1		
+Alon Zingman	1		
+Alrick Riley	1		
+Aluizio Abranches	1		
+Alvin Rakoff	3		
+Amanda Homsi	1		
+Amie S	1		
+Amin Matalqa	1		
+Amir Bar	3		
+Amir Manor	1		
+Amir Muhammad	1		
+Amir Soltani	1		
+Amos Gitai	7		
+Amos Kollek	2		
+Amy Bucher	1		
+Amy Hardie	1		
+Ana Sofia Joanes	2		
+Ana Vivas	1		
+Anatole Litvak	2		
+Andre	1		
+Andre Haguet	2		
+Andre Singer	7		
+Andrea Ambandos	4		
+Andrea Kalin	1		
+Andrei Konchalovsky	2		
+Andrei Kravchuk	1		
+Andrei Tarkovskii	2		
+Andrei Tarkovskij	1		
+Andrei Tarkovsky	5		
+Andrew Adamson	1		
+Andrew Black	1		
+Andrew Davis	1		
+Andrew Dominik	1		
+Andrew Dosunmu	1		
+Andrew Fredericks	1		
+Andrew Jarecki	1		
+Andrew Lampert	1		
+Andrew Lau	3		
+Andrew Levine	1		
+Andrew Liebman	1		
+Andrew Marton	1		
+Andrew Mudge	1		
+Andrew Niccol	2		
+Andrew Solt	2		
+Andrew Stanton	3		
+Andrew Stone	1		
+Andrew Thompson	1		
+Andrew V	7		
+Andrzej Bartkowiak	1		
+Andrzej Wajda	1		
+Andrzej Z	1		
+Andy Abrahams Wilson	2		
+Andy Amenechi	1		
+Andy Spitz	1		
+Andy Tennant	2		
+Andy Warhol	1		
+Ang Lee	7		
+Angad Singh Bhalla	1		
+Angela Tucker	1		
+Angelo Mancuso	1		
+Anisa Mehdi	1		
+Anita Saewitz	1		
+Anja	2		
+Ann Fessler	1		
+Anna Sofaer	1		
+Anna Terean	1		
+Anne	1		
+Anne Aghion	2		
+Anne Goursaud	1		
+Anne Lewis	1		
+Annette	1		
+Anthony Asquith	4		
+Anthony Harvey	2		
+Anthony Kimmins	1		
+Anthony Mann	9		
+Anthony Minghella	2		
+Anthony Page	1		
+Anthony Perkins	1		
+Anthony Quinn	1		
+Anthony Russo	1		
+Anthony Thomas	1		
+Antoine Beau	1		
+Antoine Fuqua	1		
+Antonio Nuic	1		
+Antony Thomas	2		
+Anusha Rizvi	1		
+Apichatpong Weerasethakul	1		
+Archie L	1		
+Archie Mayo	2		
+Ari Libsker	1		
+Ari Luis Palos	1		
+Ariel Rotter	1		
+Ariel Schulman	1		
+Arik Kaplun	1		
+Arivind Abraham	1		
+Arlene Bowman	1		
+Arliss Howard	1		
+Armand Mastroianni	1		
+Armando Arencibia	1		
+Arnon Goldfinger	2		
+Arsen Anton Ostojic	1		
+Art Wolff	1		
+Arthur A	1		
+Arthur Crabtree	1		
+Arthur Hiller	2		
+Arthur Lubin	1		
+Arthur Marks	1		
+Arthur Penn	3		
+Arthur Rankin	2		
+Arthur Robison	1		
+Arturo Perez Torres	1		
+Arturo Ripstein	1		
+Arun Rath	1		
+Arvin Brown	2		
+Asghar Farhadi	2		
+Ashutosh Gowariker	4		
+Asif Kapadia	2		
+Astra Taylor	2		
+Atsushi Saito	1		
+Austin Hoyt	3		
+Avi Cohen	1		
+Avi Lewis	1		
+Avi Nesher	1		
+Avishai Sivan	2		
+B	1		
+Babak Payami	1		
+Bader Ben Hirsi	1		
+Bae Yong	1		
+Bahman Ghobadi	1		
+Banker White	1		
+Banksy	1		
+Barak Goodman	6		
+Barbara	1		
+Barbara Attie	1		
+Barbara Caspar	1		
+Barbara F	1		
+Barbara Trent	2		
+Barbara Zahm	1		
+Barbet Schroeder	1		
+Barni Axmed Qaasim	1		
+Barry Avrich	1		
+Barry Levinson	4		
+Barry Simmons	1		
+Barry Sonnenfeld	2		
+Barry Sonnenfield	1		
+Barry W	1		
+Basil Coleman	2		
+Basil Dearden	2		
+Basil Gelpke	1		
+Baz Luhrmann	4		
+Bela Tarr	1		
+Ben Affleck	1		
+Ben Lemoine	1		
+Ben Lewin	1		
+Ben Lewis	1		
+Ben Niles	1		
+Ben Sharpsteen	1		
+Ben Steinbauer	1		
+Ben Stiller	3		
+Benh Zeitlin	2		
+Benicio Del Toro	1		
+Benjamin Avila	1		
+Benjamin Christensen	2		
+Bennett Miller	2		
+Benni Torati	1		
+Benoit Delepine	1		
+Bent Hamer	1		
+Bentley Dean	1		
+Bernard George	1		
+Bernard Rose	2		
+Bernardo Bertolucci	3		
+Bertrand Blier	1		
+Beth Bird	1		
+Beth Mc	1		
+Bethany Ashton Wolf	1		
+Bettina Perut	1		
+Beverly Seckinger	1		
+Beverly Willis	1		
+Bill Anderson	2		
+Bill Bennett	1		
+Bill Condon	1		
+Bill Cosby	1		
+Bill Douglas	1		
+Bill Guttentag	1		
+Bill Haney	2		
+Bill Kavanagh	1		
+Bill Locke	1		
+Bill Melendez	2		
+Bill Siegel	1		
+Bille August	3		
+Billy Bob Thornton	1		
+Billy Corben	1		
+Billy Luther	1		
+Billy Ray	1		
+Billy Wilder	14		
+Bimal Roy	1		
+Biyi Bandele	1		
+Blake Edwards	2		
+Boaz Yakin	1		
+Bob Barrett	1		
+Bob Carruthers	9		
+Bob Connolly	2		
+Bob Fosse	1		
+Bob Hercules	2		
+Bob Rafelson	2		
+Bob Shami	1		
+Bob Spiers	1		
+Bobby Garabedian	1		
+Bocafloja	1		
+Bohdan Slama	1		
+Bong Joon	3		
+Boris Carrete	1		
+Boris Sagal	3		
+Bouli Lanners	1		
+Brad Anderson	3		
+Brad Bird	3		
+Brad Silberling	1		
+Bradley Raymond	1		
+Bret Wood	1		
+Brett Gaylor	1		
+Brett Morgen	1		
+Brett Ratner	1		
+Brian Bain	1		
+Brian Cohen	1		
+Brian Dannelly	1		
+Brian De	1		
+Brian De Palma	11		
+Brian G	1		
+Brian Gilbert	1		
+Brian Kirk	1		
+Brian Lighthill	1		
+Brian Lilla	1		
+Brian Percival	1		
+Brian Yuzna	1		
+Briar March	1		
+Brigitte Brault	1		
+Brosens	1		
+Bruce	2		
+Bruce Alfred	1		
+Bruce Beresford	4		
+Bruce Norfleet	1		
+Bruce R	5		
+Bruce Robinson	2		
+Bruce Weber	1		
+Bruno Ulmer	1		
+Bryan Cranston	1		
+Bryan D	1		
+Bryan Law	1		
+Bryan Singer	6		
+Budd Boetticher	1		
+Burt Brinckerhoff	1		
+Burt Gillett	1		
+Burt Kennedy	1		
+Burt Shevelove	1		
+Busby Berkeley	4		
+Buzz Kulik	2		
+Byron Haskin	1		
+Byrt Wammack	1		
+C	2		
+Caius Julyan	1		
+Cameron Crowe	1		
+Camilo Vila	1		
+Candace Schermerhorn	1		
+Candida Brady	1		
+Cao Hamburger	1		
+Cara Biasucci	1		
+Carl	1		
+Carl Byker	4		
+Carl Charlson	1		
+Carl Franklin	1		
+Carl Th	1		
+Carl Theodor Dreyer	1		
+Carl Theodore Dreyer	1		
+Carlos Diegues	2		
+Carlos Ferrand Zavala	1		
+Carlos Garcia	2		
+Carlos Marques	1		
+Carlos Nine	1		
+Carlos Sorin	1		
+Carma Hinton	1		
+Carmine Cervi	1		
+Carmine Gallone	1		
+Carol Reed	4		
+Carol Sauvion	1		
+Carolina Rivas	1		
+Caroline Penry	2		
+Caroline Sargent	1		
+Carolyn Strachan	1		
+Carroll Ballard	1		
+Carroll Moore	2		
+Carvin Eison	1		
+Cary Joji Fukunaga	2		
+Cassian Harrison	1		
+Catherine Tatge	2		
+Catherine Ulmer Lopez	1		
+Cathleen O	1		
+Cathy Clarke	1		
+Cathy Henkel	1		
+Cecil B	3		
+Cedric Klapisch	1		
+Cedric Messina	2		
+Celine Danhier	1		
+Cesc Gay	1		
+Chad Freidrichs	1		
+Chana Gazit	2		
+Chang Cheh	1		
+Chang Chen	1		
+Chang Cheun	1		
+Charlene Gilbert	2		
+Charles Atlas	1		
+Charles Barton	2		
+Charles Brabin	1		
+Charles Chaplin	13		
+Charles Crichton	2		
+Charles Dennis	4		
+Charles F	1		
+Charles Ferguson	1		
+Charles Lane	1		
+Charles Laughton	1		
+Charles M	1		
+Charles Marquis Warren	1		
+Charles S	1		
+Charles Shaw	1		
+Charles Stone	1		
+Charles Sturridge	1		
+Charles T	1		
+Charles Vidor	1		
+Charles Walters	1		
+Charlie Chaplin	6		
+Charlie Kaufman	1		
+Charlie Medina	1		
+Charlton Heston	1		
+Chelsea Moynehan	1		
+Chema Rodriguez	2		
+Chen Guoxing	1		
+Chen Kaige	2		
+Cheol	2		
+Chere Breaux	1		
+Chineze Anyaene	1		
+Chip Duncan	2		
+Chris Buck	1		
+Chris Columbus	2		
+Chris Felver	1		
+Chris Gormlie	1		
+Chris Kraus	1		
+Chris Maybach	1		
+Chris Moore	1		
+Chris Renaud	1		
+Chris Sivertson	1		
+Chris Smith	2		
+Chris Szwedo	1		
+Chris Triffo	1		
+Chris Weitz	1		
+Chris Williams	1		
+Christian Nyby	2		
+Christian Petzold	2		
+Christine Beebe	1		
+Christine Choy	2		
+Christine Fugate	1		
+Christopher Bell	1		
+Christopher Cain	1		
+Christopher Cassel	1		
+Christopher Felver	1		
+Christopher Guest	2		
+Christopher Hodson	3		
+Christopher Mc	2		
+Christopher Nolan	6		
+Christopher Walker	1		
+Christopher Wilcha	2		
+Chuan Lu	1		
+Chuck Jones	1		
+Chuck O	1		
+Cindy Burstein	1		
+Ciro Guerra	1		
+Clare Beavan	1		
+Clare Smyth	1		
+Clarence Badger	2		
+Clarence Brown	6		
+Claude Berri	1		
+Claude Chabrol	1		
+Claudia Willke	1		
+Clayton Brown	1		
+Clement Virgo	1		
+Clint Eastwood	9		
+Clive Barker	1		
+Clive Maltby	2		
+Clyde Geronimi	1		
+Coco Fusco	1		
+Coco Schrijber	1		
+Colin Higgins	1		
+Colin Teague	1		
+Colleen O	1		
+Conni Castille	1		
+Connie Field	1		
+Connie Julian	1		
+Connie Littlefield	1		
+Corine Huq	1		
+Cory Taylor	1		
+Craig Brewer	4		
+Craig Gilbert	1		
+Craig Monahan	1		
+Craig Scott Rosebraugh	1		
+Cristobal Krusen	1		
+Curt Conway	1		
+Curtis Bernhardt	1		
+Curtis Hanson	5		
+Cynthia Capen	1		
+Cynthia Connop	1		
+Cynthia Page	1		
+Cynthia Salzman Mondell	2		
+Cyril Bruce	1		
+Cyril Coke	1		
+D	2		
+Dagmar Schultz	1		
+Dain Said	1		
+Daisuke Goto	1		
+Dale Berry	1		
+Dalia Hager	1		
+Dalton Narine	6		
+Damian Pettigrew	1		
+Damien Chazelle	1		
+Damien O	1		
+Damon Thomas	1		
+Dan Clifton	1		
+Dan Lohaus	1		
+Dan Reed	1		
+Dan Setton	2		
+Dan Susman	1		
+Dani Levy	1		
+Daniel Auteuil	1		
+Daniel B	1		
+Daniel Barnz	1		
+Daniel Freudenberger	1		
+Daniel Junge	1		
+Daniel Karslake	1		
+Daniel Leconte	1		
+Daniel Mann	3		
+Daniel Mc	1		
+Daniel Minahan	2		
+Daniel Monzon	1		
+Daniel Ribeiro	1		
+Daniel Vidal	1		
+Daniele Lacourse	2		
+Danny Boyle	2		
+Danny L	1		
+Danny Leiner	1		
+Danny Verete	1		
+Dario Argento	4		
+Dariush Mehrjui	1		
+Darrell James Roodt	1		
+Darren Aronofsky	4		
+Dave Boyle	1		
+Dave Fleischer	6		
+Dave Iverson	1		
+Dave Weber	1		
+Davey Marlin	1		
+David Alter	1		
+David Anspaugh	2		
+David Bickerstaff	1		
+David Bowers	1		
+David Breashers	1		
+David Bruckner	1		
+David Butler	2		
+David Carson	1		
+David Collier	1		
+David Cronenberg	11		
+David D	2		
+David Dobkin	1		
+David Fincher	6		
+David France	1		
+David G	3		
+David Giles	5		
+David Gill	1		
+David Gordon Green	3		
+David Grubin	8		
+David Hand	1		
+David Hanson	1		
+David Heeley	1		
+David Jones	3		
+David Kaplan	1		
+David Koepp	1		
+David Lean	12		
+David Lickley	1		
+David Lynch	9		
+David M	3		
+David Mackenzie	1		
+David Mamet	1		
+David Michod	1		
+David Miller	2		
+David Mrazek	1		
+David O	4		
+David Oelhoffen	1		
+David Paperny	2		
+David Richardson	1		
+David Rummel	2		
+David Silverman	1		
+David Springbett	1		
+David Sutherland	1		
+David Thompson	1		
+David Wachtenheim	1		
+David Wallace	2		
+David Weissman	1		
+David Wellington	1		
+David Wilson	1		
+David Yates	5		
+David Zeiger	1		
+David Zlutnick	1		
+David Zucker	1		
+Davis Guggenheim	3		
+Dawn Logsdon	2		
+Dawn Porter	1		
+Dayna Goldfine	2		
+Dean De	1		
+Deborah Harse	1		
+Deborah J	1		
+Deborah Reinisch	1		
+Debra Chasnoff	1		
+Deirdre Fishel	2		
+Delbert Mann	3		
+Delmer Daves	1		
+Demetria Royals	1		
+Denis Bablet	1		
+Denis Heroux	1		
+Denis Villeneuve	1		
+Dennis Hopper	3		
+Dennis Smith	1		
+Denys Arcand	1		
+Deran Sarafian	1		
+Derek Jarman	3		
+Derek Towers	1		
+Desiree Akhavan	1		
+Desmond Davis	1		
+Dharmasena Pathiraja	1		
+Diana Fabianova	1		
+Diana S	1		
+Diane Crespo	1		
+Dick Moder	2		
+Didier Baussy	1		
+Didier Florent Ouenangare	1		
+Diego Quemada	1		
+Diego Velasco	1		
+Dimitri Doganis	2		
+Dina Zvi Riklis	1		
+Dirk Dumon	1		
+Dirk Olson	1		
+Djamila Sahraoui	1		
+Djibril Diop Mambety	1		
+Djo Tunda Wa Munga	1		
+Dom Karukoski	1		
+Dominic Allan	1		
+Dominique Abel	1		
+Don Chaffey	1		
+Don Mc	1		
+Don Richardson	1		
+Don Siegel	4		
+Don Taylor	2		
+Donald Cammell	1		
+Donald Petrie	1		
+Donald Siegel	1		
+Donna La	1		
+Donna Read	1		
+Doug Liman	2		
+Doug Pray	1		
+Douglas Heyes	1		
+Douglas J	1		
+Douglas Rosenberg	2		
+Douglas Sirk	4		
+Douglas Trumbull	2		
+Douglas W	1		
+Dover Kosashvili	1		
+Dr	1		
+Drea Cooper	1		
+Dror Moreh	1		
+Dror Shaul	1		
+Duane Kubo	1		
+Duc Nguyen	1		
+Dudley Murphy	1		
+Duncan Copp	1		
+Duncan Tucker	1		
+Dustin Hoffman	1		
+Duwayne Dunham	1		
+Dziga Vertov	1		
+E	2		
+Ebtisam Mara	1		
+Ed Etsten	3		
+Edgar G	2		
+Edgar Reitz	2		
+Edgar Selwyn	1		
+Edgar Wright	2		
+Edmond Greville	2		
+Edmund Goulding	5		
+Edmund Penney	1		
+Edo Bertoglio	1		
+Eduardo Montes	1		
+Eduardo Nunes	1		
+Eduardo Villanueva	1		
+Edward Bernds	1		
+Edward Bianchi	1		
+Edward D	1		
+Edward Dmytryk	4		
+Edward Ludwig	1		
+Edward O	1		
+Edward Zwick	1		
+Edwin Sherin	1		
+Efraim Kishon	1		
+Egon Gunther	1		
+Eileen Thalenberg	2		
+Elaina Archer	1		
+Elem Klimov	1		
+Elena Featherston	1		
+Eleonore Faucher	1		
+Eli Cohen	1		
+Eli Roth	1		
+Elia Kazan	9		
+Elia Suleiman	2		
+Elijah Drenner	1		
+Elijah Moshinsky	5		
+Elizabeth Arledge	2		
+Elizabeth Deane	1		
+Elizabeth Le	2		
+Ellen Bruno	1		
+Ellen Hovde	3		
+Elliot Caplan	1		
+Elliott Lester	1		
+Elliott Nugent	1		
+Ellis Rabb	2		
+Elyse Steinberg	1		
+Emile	1		
+Emile Ardolino	1		
+Emilio Estevez	1		
+Emily Haddad	1		
+Emily Lindin	1		
+Emma Hindley	1		
+Emmanuel Finkiel	1		
+Enrico Cerasuolo	1		
+Ephraim Kishon	2		
+Eran Kolirin	1		
+Eran Riklis	3		
+Eric Breibart	1		
+Eric Bress	1		
+Eric Bricker	1		
+Eric Darnell	1		
+Eric Stange	1		
+Erica Jordan	1		
+Erich	1		
+Erich Von Stroheim	3		
+Erik Canuel	1		
+Erik Leijonborg	2		
+Erling Borgen	1		
+Ermanno Olmi	2		
+Erna Buffie	1		
+Ernest B	2		
+Ernesto Ardito	1		
+Ernesto Cabellos	1		
+Ernesto Mc	1		
+Ernst Lubitsch	12		
+Errol Morris	6		
+Etgar Keret	1		
+Ethan H	1		
+Eugene Green	1		
+Eugene Jarecki	2		
+Eugene Lourie	1		
+Eugenio Barba	1		
+Evgeni Bauer	1		
+Eyal Sivan	1		
+Eytan Fox	2		
+F	9		
+Faith Pennick	1		
+Farhadi Asghar	1		
+Farida Ben Lyazid	1		
+Farley Richmond	1		
+Federico Fellini	3		
+Fedor Ozep	1		
+Felicia Lowe	1		
+Felix Moeller	1		
+Fengliang Yang	1		
+Fenton Bailey	1		
+Ferid Boughedir	2		
+Fernando Meirelles	1		
+Fernando Perez	2		
+Fernando Spiner	2		
+Fiedler Cook	1		
+Fielder Cook	1		
+Filip Zylber	2		
+Fisher Stevens	1		
+Flora Gomes	2		
+Flora M	1		
+Forest Whitaker	1		
+Frances	1		
+Frances Reid	3		
+Francis Ford Coppola	6		
+Francis Hanly	1		
+Francis Lawrence	3		
+Franco Zeffirelli	1		
+Francois Girard	1		
+Francois Ozon	1		
+Francois Truffaut	2		
+Francoise Levie	1		
+Frank Beyer	2		
+Frank Borzage	2		
+Frank Capra	9		
+Frank Darabont	3		
+Frank Martin	1		
+Frank Miller	1		
+Frank O	1		
+Frank Oz	3		
+Frank Perry	1		
+Frank Pierson	1		
+Frank Powell	1		
+Frank R	1		
+Frank Satenstein	1		
+Frank Sinatra	2		
+Frank Tashlin	2		
+Frank Tuttle	1		
+Franklin J	4		
+Frantisek Vlacil	1		
+Fraser C	1		
+Fred Baker	1		
+Fred F	1		
+Fred M	1		
+Fred Mc	1		
+Fred Niblo	3		
+Fred Schepisi	1		
+Fred Zinnemann	6		
+Freddie Francis	2		
+Frederic Tellier	1		
+Frederick Stephani	1		
+Fritz Lang	21		
+Fruit Chan	1		
+Full Duck Productions	1		
+G	2		
+Gabina Funegra	1		
+Gabriel Baur	1		
+Gabriele Muccino	1		
+Gabrielle C	1		
+Gabrielle Provaas	1		
+Gabrielle Tenenbaum	1		
+Gail Pellett	2		
+Gail Willumsen	1		
+Gareth Davies	1		
+Garin Nugroho	2		
+Garry Marshall	2		
+Garth Jennings	1		
+Gary Deans	1		
+Gary Fleder	2		
+Gary Halvorson	1		
+Gary Hustwit	1		
+Gary Johnstone	2		
+Gary Leva	2		
+Gary Ross	3		
+Gary Sinise	1		
+Gary Trousdale	3		
+Gavin Hood	1		
+Gavin Millar	2		
+Gemma Cubero	1		
+Gene Kelly	3		
+Gene Saks	1		
+Gene Searchinger	1		
+Gene Wilder	1		
+Geoff Callan	1		
+Geoff Posner	1		
+Georg Boch	1		
+Georg Helmes	1		
+Georg Misch	1		
+Georg Stanford Brown	1		
+George A	2		
+George Armitage	1		
+George B	2		
+George Burdeau	1		
+George C	2		
+George Clooney	1		
+George Cukor	9		
+George Dunning	1		
+George Egbuonu	1		
+George Fitzmaurice	2		
+George Gallo	1		
+George H	2		
+George King	1		
+George Loane Tucker	1		
+George Lucas	4		
+George Marshall	2		
+George Meli	1		
+George Miller	5		
+George Nolfi	1		
+George P	1		
+George Pal	1		
+George Roland	2		
+George Roy Hill	5		
+George Schaefer	1		
+George Seaton	2		
+George Sidney	2		
+George Stevens	6		
+George Waggner	1		
+George Wilhelm Pabst	2		
+Gerald Freedman	1		
+Gerald Peary	1		
+Gerald Thomas	1		
+Geralyn Pezanoski	1		
+Gerard Baldwin	1		
+Gerard Kikoine	1		
+Gerardo Vera	1		
+Germinal Alvarez	1		
+Gidi Dar	1		
+Gilbert Cates	1		
+Gilberto Tofano	1		
+Giles Foster	3		
+Gilles Delannoy	1		
+Gillian Laub	1		
+Gina Kim	1		
+Gini Reticker	1		
+Ginny Martin	1		
+Giovanni Attili	1		
+Giovanni Pastrone	2		
+Giovanni Vaz Del Bello	2		
+Giselle Portenier	1		
+Giuseppe Tornatore	1		
+Glen Pitre	1		
+Glenn Dieterich	1		
+Glenn Ficarra	1		
+Glenn Holsten	1		
+Glenn Jordan	3		
+Glenn Silber	2		
+Gloria Rolando	1		
+Gloria Z	1		
+Godfrey Reggio	3		
+Goran Hugo Olsson	1		
+Gordon Chan	1		
+Gordon Douglas	1		
+Gordon Parks	2		
+Gore Verbinski	2		
+Goro Miyazaki	1		
+Gottfried Kolditz	1		
+Govind Nihalani	1		
+Grace Lee	4		
+Graham Judd	2		
+Graham Linehan	3		
+Graham Townsley	1		
+Grant Gee	1		
+Grant Lahood	1		
+Gray Warriner	1		
+Greg Lanning	1		
+Greg Mc	1		
+Gregg Araki	2		
+Gregory Doran	1		
+Gregory Greene	1		
+Gregory Nava	1		
+Grigori Chukhrai	2		
+Grimur Hakonarson	1		
+Gry Winther	1		
+Guillaume Hecht	5		
+Gulzar	1		
+Gur Bentvich	1		
+Guru Dutt	1		
+Gus Van Sant	8		
+Gustaf Molander	2		
+Gustavo Serena	1		
+Guy Ferland	1		
+Guy Green	1		
+Guy Hamilton	1		
+Guy Hedlund	1		
+Guy Maddin	2		
+Guy Nattiv	1		
+Guy Perrotta	1		
+Guy Ritchie	2		
+Gwendolyn Foster	1		
+Gyula Gazdag	1		
+H	1		
+Haile Gerima	1		
+Hailima Yates	1		
+Haim Buzaglo	1		
+Haim Tabakman	1		
+Hal Ashby	5		
+Hal Hartley	1		
+Hal Roach	1		
+Hal Walker	2		
+Hali Lee	1		
+Hall Bartlett	1		
+Hamid Nematollah	1		
+Hannah Weyer	1		
+Hans	1		
+Hans Jurgen Syberberg	1		
+Hany Abu	1		
+Harold Boihem	1		
+Harold Ramis	4		
+Harold Scott	1		
+Harry A	1		
+Harry Beaumont	1		
+Harry Dodge	1		
+Harry Elfont	1		
+Harry O	1		
+Harry Shearer	1		
+Harry Sinclair	1		
+Harry Watt	1		
+Haskell Wexler	1		
+Hava Kohav Beller	1		
+Hayao Miyazaki	14		
+Heather Lyn Mac	1		
+Hector Babenco	1		
+Heddy Honigmann	1		
+Heidi Ewing	1		
+Heinz Peter Schwerfel	2		
+Helen Staveley	1		
+Henri	1		
+Henry Alex Rubin	1		
+Henry Cornelius	1		
+Henry Hathaway	3		
+Henry King	5		
+Henry Koster	5		
+Henry Levin	1		
+Henry Lynn	1		
+Herbert Biberman	1		
+Herbert Brenon	1		
+Herbert Ross	1		
+Herbert Wise	3		
+Herk Harvey	1		
+Herman Shumlin	1		
+Herrmann Zschoche	1		
+Hideaki Anno	1		
+Hidekazu Takahara	1		
+Hideo Gosha	2		
+Hideo Nakata	2		
+Hilari Scarl	1		
+Hillevi Loven	1		
+Hiner Saleem	1		
+Hiroaki Mori	1		
+Hirokazu Kore	1		
+Hiromasa Yonebayashi	1		
+Hiroshi Inagaki	1		
+Hiroyuki Morita	1		
+Hiroyuki Tsuji	1		
+Hisham Abdullah	3		
+Hong Sang	2		
+Howard Alk	2		
+Howard Baker	1		
+Howard Deutch	1		
+Howard Hawks	15		
+Howard Hughes	2		
+Hsiao	2		
+Huang Oiagui	1		
+Hugh David	1		
+Hugh Hudson	1		
+Hugh Thomson	1		
+Hussein Kamal	2		
+Hyatt	1		
+Hyon Moak Yu	1		
+Hyung Rae Shim	1		
+I	1		
+Iain Forsyth	1		
+Iain Softley	2		
+Ian Fitzgibbon	1		
+Ian Gabriel	1		
+Ian Mc	1		
+Ian Taylor	1		
+Ibolya Fekete	1		
+Igor Sopronenko	1		
+Ilan Moshenson	1		
+Ilan Ziv	3		
+Ilana Trachtman	1		
+Ildiko Szabo	1		
+Ilisa Barbash	1		
+Ilja Kok	1		
+Im Kwon Taek	1		
+Im Sang	2		
+Imanol Uribe	1		
+In	1		
+Ingmar Bergman	3		
+Ingrid Sinclair	1		
+Inoshiro Honda	2		
+Ira Mc	1		
+Ira Sachs	1		
+Irena Salina	1		
+Irene Taylor Brodsky	1		
+Irvin S	1		
+Irving Cummings	6		
+Irving J	3		
+Irving Pichel	1		
+Irving Rapper	2		
+Isaac Florentine	1		
+Isaac Julien	2		
+Isabel Hill	1		
+Isao Takahata	4		
+Ishiro Honda	1		
+Israel Becker	1		
+Issa Serge Coelo	1		
+Istvan Szabo	3		
+Ivan Acosta	1		
+Ivan Dixon	2		
+J	3		
+Jack Arnold	3		
+Jack Bond	1		
+Jack Clayton	1		
+Jack Cutting	1		
+Jack Dillon	1		
+Jack Donohue	1		
+Jack Gold	2		
+Jack Hill	2		
+Jack Hofsiss	2		
+Jack Landau	1		
+Jack O	3		
+Jack Smight	1		
+Jack Webb	1		
+Jack Weis	1		
+Jack Woods	1		
+Jackie Chan	1		
+Jackie Mow	1		
+Jacob Chase	1		
+Jacoba Dedert	1		
+Jacon Kornbluth	1		
+Jacques Audiard	1		
+Jacques Becker	2		
+Jacques Cluzard	1		
+Jacques Rivette	4		
+Jacques Tourneur	5		
+Jacqui Lofaro	1		
+Jafar Panahi	2		
+Jake Kasdan	1		
+Jamal Joseph	1		
+Jambu	1		
+James Banks	1		
+James Barrat	1		
+James Brabazon	1		
+James Bradstock	1		
+James Bridges	1		
+James Burrows	1		
+James Cameron	6		
+James Cellan Jones	2		
+James E	1		
+James Erskine	1		
+James H	2		
+James Ivory	2		
+James L	2		
+James Lee	1		
+James Longley	1		
+James Mangold	3		
+James Marsh	3		
+James Mc	1		
+James Naughton	1		
+James R	1		
+James Redford	1		
+James Whale	1		
+James Wong Howe	1		
+James Young	1		
+Jamie Morgan	1		
+Jamika Ajalon	1		
+Jamila Wignot	1		
+Jan De Bont	1		
+Jan Harlan	1		
+Jan Krawitz	1		
+Jan Louter	1		
+Jan Sikl	1		
+Jan Svankmajer	1		
+Jan Sverak	1		
+Jan Thompson	1		
+Jane Gardner	1		
+Jane Howell	4		
+Jane Kennedy	1		
+Janet Graham	1		
+Jang Hun	1		
+Jang Yun Hyeon	1		
+Jared Hess	1		
+Jason Ferris	1		
+Jason Lapeyre	1		
+Jason Osder	1		
+Jason Reitman	3		
+Jason Spingarn	1		
+Jaume Belaguero	1		
+Jaume Collet	1		
+Jay Kincaid	1		
+Jay Roach	4		
+Jay Rosenblatt	1		
+Jay Sandrich	2		
+Jean	27		
+Jean Antoine	2		
+Jean Bergeron	1		
+Jean Carlomusto	1		
+Jean Cheng	1		
+Jean Claude Bragard	2		
+Jean Cocteau	1		
+Jean Crousillac	1		
+Jean Francois Vallee	1		
+Jean Luc Godard	1		
+Jean Marie Offenbacher	1		
+Jean Negulesco	1		
+Jean Renoir	5		
+Jed Riffe	2		
+Jeff Bleckner	1		
+Jeff Farber	1		
+Jeff Marks	1		
+Jeff Nichols	2		
+Jeff Waters	2		
+Jeff Zimbalist	1		
+Jeffrey Friedman	2		
+Jeffrey L	1		
+Jeffrey Wolf	1		
+Jehane Noujaim	1		
+Jeni Kendell	1		
+Jenifer Mc	1		
+Jennie Livingston	1		
+Jennifer Baumgardner	1		
+Jennifer M	1		
+Jennifer Redfearn	1		
+Jens Afflerbach	1		
+Jeong	1		
+Jeong Yun	1		
+Jeremiah Chechik	2		
+Jeremy Earp	6		
+Jeremy Gans	1		
+Jeremy Monblat	1		
+Jeremy Newson	1		
+Jeremy Robins	1		
+Jeremy Simmons	1		
+Jeremy Teicher	1		
+Jeroen Krabbe	1		
+Jerry Belson	1		
+Jerry Lewis	1		
+Jerry Rees	1		
+Jerzy Kawalerowicz	1		
+Jerzy Stuhr	1		
+Jesse Epstein	1		
+Jesse Rosensweet	1		
+Jessica Sanders	1		
+Ji Dan	1		
+Jia Zhang	2		
+Jia Zhangke	1		
+Jiang Wen	1		
+Jihan El	1		
+Jill Freidberg	1		
+Jim	1		
+Jim Butterworth	1		
+Jim Finn	1		
+Jim Gillespie	1		
+Jim Hoskinson	1		
+Jim Jarmusch	7		
+Jim Klein	1		
+Jim Mallon	1		
+Jim Mc	1		
+Jim Muro	1		
+Jim Sharman	1		
+Jim Sheridan	3		
+Jin Hyuk	1		
+Joachim Kunert	1		
+Joan Craft	1		
+Joanne Caputo	1		
+Joanne Grant	1		
+Joe Adamson	1		
+Joe Berlinger	3		
+Joe Camp	1		
+Joe Chappelle	1		
+Joe Dante	1		
+Joe Fox	1		
+Joe Johnston	2		
+Joe May	1		
+Joe Roth	1		
+Joe Tropea	1		
+Joe Wright	1		
+Joel Coen	14		
+Joel Gallen	2		
+Joel Geyer	1		
+Joel Karekezi	1		
+Joel Schumacher	5		
+Joel Skidmore	3		
+Johan Grimonprez	2		
+John Akomfrah	1		
+John Ankele	1		
+John Badham	1		
+John Barker	1		
+John Boorman	1		
+John Boskovich	1		
+John Brahm	1		
+John Bridcut	1		
+John Carlaw	10		
+John Carpenter	5		
+John Cassavetes	1		
+John Clive	1		
+John Cromwell	4		
+John Curran	1		
+John Dahl	1		
+John Davies	1		
+John Desmond	2		
+John Du Cane	1		
+John Duigan	1		
+John Erman	1		
+John Farrow	3		
+John Ford	23		
+John Frankenheimer	1		
+John Frankheimer	1		
+John G	2		
+John Glenister	1		
+John Gorrie	3		
+John Greyson	1		
+John Guillermin	1		
+John Hancock	1		
+John Hillcoat	1		
+John Howard Davies	1		
+John Hughes	3		
+John Huston	17		
+John Irvin	1		
+John Junkerman	1		
+John Kirby	1		
+John Landis	1		
+John Lasseter	3		
+John Lassetter	1		
+John Lee Hancock	1		
+John Libretto	1		
+John Mackenzie	1		
+John Madden	1		
+John Marshall	2		
+John Maybury	1		
+John Mc	2		
+John Moore	1		
+John Musker	3		
+John Paul Davidson	1		
+John Quested	1		
+John Requa	1		
+John Rich	1		
+John Robert	1		
+John Robertson	1		
+John Rubin	2		
+John S	4		
+John Sayles	2		
+John Scheinfeld	1		
+John Schlesinger	6		
+John Singleton	3		
+John Stevenson	1		
+John Stix	1		
+John Sturges	3		
+John Trefor	1		
+John Waters	4		
+John Wilhelm	3		
+Johnnie To	2		
+Jon Amiel	2		
+Jon Avnet	2		
+Jon Blair	1		
+Jon Bowermaster	1		
+Jon Hutcheson	1		
+Jon Jones	1		
+Jon Jory	1		
+Jon Palfreman	3		
+Jon Silver	2		
+Jon Turteltaub	2		
+Jonas Elmer	1		
+Jonathan Caouette	1		
+Jonathan Challis	1		
+Jonathan Dayton	1		
+Jonathan Demme	6		
+Jonathan Frakes	2		
+Jonathan Gayles	1		
+Jonathan Grupper	1		
+Jonathan Kaplan	1		
+Jonathan Lewis	1		
+Jonathan Lynn	1		
+Jonathan Meyer Robinson	1		
+Jonathan Miller	1		
+Jonathan Mostow	1		
+Jonathan Sahula	1		
+Jonathan Stack	1		
+Jonathan Stamp	1		
+Jordan Brady	1		
+Jorge Ulla	1		
+Jose Antonio Vargas	1		
+Jose Falcon Rodgrigo	1		
+Jose Luis Cuerda	1		
+Jose Padilha	2		
+Jose Quintero	1		
+Josef	3		
+Josef Berne	1		
+Josef Rusnak	1		
+Joseph	2		
+Joseph Albrecht	1		
+Joseph Anthony	1		
+Joseph Cedar	3		
+Joseph Gai Ramaka	1		
+Joseph Green	2		
+Joseph H	2		
+Joseph Hardy	1		
+Joseph J	1		
+Joseph L	5		
+Joseph Lewis	1		
+Joseph Losey	2		
+Joseph Meissner	1		
+Joseph Mustacchi	1		
+Joseph Pitchhadze	1		
+Joseph Santley	1		
+Josh Aronson	2		
+Josh Fox	2		
+Joshua Logan	2		
+Joshua Marston	1		
+Joshua Oppenheimer	2		
+Joshua White	1		
+Josie Lehrer	1		
+Joss Whedon	1		
+Juan Agustin Marquez	1		
+Juan Andres Arango	1		
+Juan Carlos Munos	1		
+Juan Jose Campanella	3		
+Juan Jose Jusid	1		
+Juan Taratuto	1		
+Judd Apatow	1		
+Judith Leonard	1		
+Judy Kibinge	1		
+Jules Dassin	5		
+Julia Haslett	1		
+Julia Meltzer	1		
+Julian Amyes	3		
+Julian Aymes	1		
+Julian Jarrold	1		
+Julian Schnabel	3		
+Julie Akeret	1		
+Julie Anderson	1		
+Julie Bridgham	1		
+Julie Gustafson	3		
+Julie Walker	1		
+Julie Wyman	2		
+Julien Duvivier	1		
+Justin Chadwick	3		
+Justin Hardy	2		
+Justin Lin	1		
+Justin Simien	1		
+Justine Shapiro	1		
+Juzo Itami	2		
+Kaige Chen	1		
+Kambozia Partovi	1		
+Kaneto Shindo	1		
+Kang Jegyu	1		
+Kang Woo	2		
+Kara Herold	1		
+Karan Johar	3		
+Karel Reisz	3		
+Karen Thorsen	1		
+Karim Miske	1		
+Karin Venegas	1		
+Karl Freund	1		
+Karl Genus	1		
+Karl Markovics	1		
+Karren Ruff	1		
+Kasper Barfoed	1		
+Kasuo Kuroki	1		
+Kate Kirtz	1		
+Kate Raisz	1		
+Katherine Linton	1		
+Kathleen Hughes	2		
+Kathleen Mc	1		
+Kathy Conkwright	1		
+Katie Jennings	1		
+Katja	1		
+Katsitsionni Fox	1		
+Katsuyuki Motohiro	1		
+Kay Armatage	1		
+Kay Pollak	1		
+Kay Sloan	1		
+Kayoko Aiba	1		
+Kazuaki Kiriya	2		
+Kazuo Komizu	1		
+Keisuke Kinoshita	4		
+Kell Kearns	1		
+Kelly Anderson	1		
+Ken Annakin	1		
+Ken Burns	4		
+Ken Diego	3		
+Ken Loach	4		
+Ken Musen	2		
+Ken Russell	1		
+Kenji Mizoguchi	2		
+Kenneth Branagh	4		
+Kenneth Lonergan	1		
+Kenny Glenaan	1		
+Keren Yedaya	1		
+Kevin Arkadie	1		
+Kevin Billington	1		
+Kevin Brownlow	2		
+Kevin Costner	1		
+Kevin Kline	1		
+Kevin Lima	1		
+Kevin Macdonald	4		
+Kevin Michael Kertscher	1		
+Kevin Rafferty	2		
+Kevin Smith	2		
+Kevin Spacey	1		
+Ki	4		
+Kihachi Okamoto	2		
+Kim Chi	1		
+Kim Farrant	1		
+Kim Jee	2		
+Kim Jinyeul	1		
+Kim Ki	7		
+Kim Mordaunt	1		
+Kim Pyong	1		
+Kim Sang	1		
+Kim Tae	2		
+Kimberlee Acquaro	1		
+King Ampaw	1		
+King Vidor	5		
+Kinoshita Keisuke	1		
+Kirby Dick	4		
+Kirk Browning	3		
+Kirk Wolfinger	2		
+Kiyoshi Kurosawa	1		
+Klay Hall	1		
+Knoshita Keisuke	1		
+Ko Nakahira	2		
+Koji Fukada	1		
+Kon Ichikawa	4		
+Konrad Wolf	2		
+Kore	1		
+Krijn	1		
+Kristi Jacobson	1		
+Kristy Guevara	1		
+Krzystztof Kieslowski	1		
+Krzysztof Kieslowski	3		
+Kurt Maetzig	3		
+Kurt Wimmer	1		
+Kwak Jae	1		
+Kwak Kyung	1		
+Kwang Jo Young	1		
+Kyi Soe Tun	1		
+Kyle Newman	1		
+Kyoko Miyake	1		
+Lajos Koltai	1		
+Lamont Johnson	1		
+Lance Hammer	1		
+Larkin Mc	1		
+Larry Arrick	1		
+Larry Clark	1		
+Larry Engel	2		
+Larry Klein	2		
+Lars	5		
+Laslo Benedek	1		
+Lasse Hallstrom	4		
+Laura J	1		
+Laurence Malkin	1		
+Laurence Olivier	10		
+Laurent Cantet	1		
+Laurent Salgues	1		
+Laurie Kahn	2		
+Lawrence Kasdan	1		
+Le	1		
+Lee Chang	2		
+Lee Daniels	3		
+Lee H	1		
+Lee Tamahori	1		
+Lee Unkrich	2		
+Leila Conners Petersen	1		
+Len Janson	1		
+Leo Eaton	1		
+Leo Mc	5		
+Leon Geller	2		
+Leon Ichaso	2		
+Leonard Horn	1		
+Leonard Nimoy	2		
+Leonce Ngabo	1		
+Les Blank	1		
+Leslie Carde	1		
+Leslie H	5		
+Lewis Allen	2		
+Lewis Gilbert	1		
+Lewis Milestone	5		
+Li Chancal	1		
+Li Chencal	9		
+Liesl Clark	4		
+Lillian Jimenez	1		
+Linda Garmon	2		
+Linda Goldstein Knowlton	2		
+Linda Hattendorf	1		
+Linda Hoaglund	1		
+Linda Saffire	1		
+Lindsay Anderson	4		
+Lino Brocka	3		
+Lisa	1		
+Lisa Ades	1		
+Lisa Collins	1		
+Lisa F	1		
+Lisa Matthews	1		
+Lixin Fan	1		
+Liz Keim	1		
+Liz Mermin	1		
+Llewellyn M	1		
+Lllewellyn M	1		
+Lloyd Bacon	5		
+Lloyd Richards	1		
+Lo Chun Yip	1		
+Lodge H	1		
+Logan Smalley	1		
+Lonny Price	1		
+Loretta Alper	2		
+Lorry Salcedo Mitrani	1		
+Lou Zukor	1		
+Louie Psihoyos	2		
+Louis Feuillade	2		
+Louis Gasnier	1		
+Louis Leterrier	1		
+Louis Malle	6		
+Louis Massiah	1		
+Louis Mercanton	1		
+Louise Lockwood	1		
+Louise Osmond	2		
+Lourdes Portillo	3		
+Lowell Sherman	1		
+Luc Besson	2		
+Luc Moullet	1		
+Luchino Visconti	3		
+Lucia Salinas Briones	1		
+Lucia Small	1		
+Luciano Lucignani	1		
+Lucio Fulci	3		
+Lucy Ostrander	2		
+Luis Bunuel	3		
+Luis Puenzo	2		
+Lut Vandekeybus	1		
+Lydia Nibley	2		
+Lyell Davies	1		
+Lyn Goldfarb	3		
+Lynn Hershman Leeson	2		
+M	4		
+Madhur Bhandarkar	1		
+Madison Davis Lacy	1		
+Mads Brugger	1		
+Mahiro Maeda	1		
+Mahmood Jamal	1		
+Mai Masri	1		
+Maisie Crow	1		
+Majid Majidi	1		
+Makoto Shinkai	1		
+Malachi Roth	1		
+Malcolm Clarke	1		
+Malcolm Ingram	1		
+Malin Andersson	1		
+Mamoru Hosoda	3		
+Mamoru Oshii	6		
+Mani Ratnam	1		
+Manthia Diawara	1		
+Manuel Boursinhac	1		
+Manuel Correa	1		
+Maple Razsa	1		
+Marc Bauder	1		
+Marc Connelly	1		
+Marc Daniels	2		
+Marc J	2		
+Marc Jobst	1		
+Marc Silver	1		
+Marc Singer	1		
+Marcel Carne	1		
+Marcela Gaviria	2		
+Marcia Paradiso	1		
+Marco Bellocchio	2		
+Marco Ferreri	1		
+Marcos Loayza	1		
+Marcus Nispel	1		
+Margaret Brown	1		
+Margaret Koval	3		
+Margaret Williams	1		
+Margarethe	1		
+Maria Finitzo	1		
+Maria Govan	1		
+Maria Schrader	1		
+Maria Yatskova	1		
+Mariah Wilson	1		
+Mariano Barroso	1		
+Mariano Galperin	1		
+Mariel Brown	1		
+Marilou Diaz	2		
+Marilu Mallet	1		
+Marino Amoruso	1		
+Mario Camus	1		
+Mario Caserini	1		
+Mario Opazo	1		
+Marion	1		
+Mark A	1		
+Mark Achbar	2		
+Mark Andrews	1		
+Mark Bamford	1		
+Mark Brokaw	1		
+Mark Cousins	1		
+Mark Crews	3		
+Mark Davis	1		
+Mark Frost	1		
+Mark Ganguzza	2		
+Mark Gibson	1		
+Mark Kitchell	1		
+Mark Lewis	1		
+Mark Moskowitz	1		
+Mark Robson	4		
+Mark Rydell	1		
+Mark Samels	1		
+Mark Vicente	1		
+Mark Warren	1		
+Mark Zwonitzer	4		
+Marlon Riggs	1		
+Marlon T	3		
+Maro Chermayeff	1		
+Marshall A	2		
+Marshall W	1		
+Martha Goell Lubell	1		
+Martha Sandlin	1		
+Martha Shane	1		
+Martin Campbell	3		
+Martin Carr	1		
+Martin Dennis	4		
+Martin Doblmeier	2		
+Martin Mc	1		
+Martin Rejtman	1		
+Martin Rosen	1		
+Martin Scorsese	20		
+Martin Zandvliet	1		
+Martina Kudlacek	2		
+Marty Callner	1		
+Marty Gross	1		
+Marvin J	1		
+Mary Ann Smothers Bruni	1		
+Mary Beth Durkin	1		
+Mary Dore	1		
+Mary Downes	1		
+Mary Lance	1		
+Maryam Keshavarz	1		
+Maryam Shahriar	1		
+Maryanne Galvin	1		
+Maryo J	1		
+Masahiro Kobayashi	1		
+Masahiro Shinoda	2		
+Masahiro Takata	1		
+Masaki Kobayashi	7		
+Masayuki Suo	1		
+Matias Pineiro	1		
+Matt	1		
+Matt Levy	1		
+Matt Lipsey	1		
+Matthew Bright	1		
+Matthew Galkin	1		
+Matthew Heineman	2		
+Matthew Saville	1		
+Matthew Von Manahan	1		
+Maureen Blackwood	2		
+Maureen Palmer	1		
+Maurice M	4		
+Maurice Pialat	3		
+Maurice Tourneur	3		
+Mauricio Martinez	1		
+Max Faberbock	1		
+Max Fleischer	2		
+Max Good	1		
+Max Nosseck	2		
+Max Ophuls	1		
+Max Opuls	2		
+Max Reinhardt	1		
+Maximilian Schell	1		
+Maya Gallus	1		
+Megan Mylan	1		
+Meir Zarchi	1		
+Mel Brooks	4		
+Mel Bucklin	1		
+Mel Gibson	3		
+Mel Stuart	2		
+Melanie Archer	2		
+Melvin	2		
+Menachem Daum	1		
+Merian C	1		
+Merrill Brockway	1		
+Mervyn Le	8		
+Merzak Allouache	2		
+Michael Anderson	3		
+Michael Apted	1		
+Michael Arias	1		
+Michael Attwell	1		
+Michael Bay	3		
+Michael Blackwood	1		
+Michael Cimino	2		
+Michael Cohn	1		
+Michael Craig	2		
+Michael Crichton	1		
+Michael Cristofer	1		
+Michael Curitz	1		
+Michael Curtiz	13		
+Michael Drumm	1		
+Michael Edmunds	1		
+Michael Ferguson	2		
+Michael G	1		
+Michael Glawogger	1		
+Michael Haneke	4		
+Michael Kahn	1		
+Michael Kirk	10		
+Michael Kloft	1		
+Michael Langham	1		
+Michael Lehmann	2		
+Michael Mann	4		
+Michael Matheson Miller	1		
+Michael Mc	3		
+Michael Moore	5		
+Michael Mulcahy	1		
+Michael O	1		
+Michael Patrick Kelly	1		
+Michael Powell	11		
+Michael R	1		
+Michael Radford	3		
+Michael Raeburn	1		
+Michael Rapaport	1		
+Michael Roemer	1		
+Michael Rymer	1		
+Michael Schultz	1		
+Michael Schwarz	2		
+Michael Singh	1		
+Michael Taylor	1		
+Michael Tuchner	1		
+Michael Whyte	1		
+Michael Winner	1		
+Michael Winterbottom	5		
+Michaelangelo Antonioni	1		
+Michal Aviad	1		
+Michal Nekanda	1		
+Michel Deville	1		
+Michel Gondry	4		
+Michel Khleifi	1		
+Michel Orion Scott	1		
+Michelangelo Antonioni	2		
+Michele Ohayon	1		
+Mick Conefry	2		
+Micki Dickoff	1		
+Miguel Picker	2		
+Mikael Agaton	1		
+Mikaela Shwer	1		
+Mike Birbiglia	1		
+Mike Birkhead	1		
+Mike Clattenburg	1		
+Mike Figgis	1		
+Mike Gabriel	1		
+Mike Goetz	1		
+Mike Hill	1		
+Mike Judge	1		
+Mike Leigh	2		
+Mike Millon	1		
+Mike Newell	2		
+Mike Nichols	3		
+Mike Shiley	1		
+Mike Tollin	1		
+Mikhail Kalatozov	2		
+Mikio Naruse	2		
+Millard Webb	1		
+Milos Forman	2		
+Mimi Chakarova	1		
+Mimi Pickering	1		
+Minky Schlesinger	1		
+Miri Navasky	2		
+Misao Arai	1		
+Mischa Scorer	3		
+Mo Masterson	1		
+Mohammad Farokhmanesh	1		
+Mohammad Rasoulof	1		
+Mohsen Makhmalbaf	1		
+Morten Tyldum	1		
+Morton Da	1		
+Mosco Kamwendo	1		
+Moshe Levinson	1		
+Moustapha Akkad	1		
+Mr	1		
+Mun Jeong	1		
+Murray Golden	1		
+Mystelle Brabbee	1		
+N	1		
+Na Hong	1		
+Nacer Khemir	1		
+Nadav Schirman	1		
+Nagisa Oshima	2		
+Nahid Persson	1		
+Naji Abu Nowar	1		
+Nancy Buirski	1		
+Nancy Tong	1		
+Naomi Levari	1		
+Naoyoshi Shiotani	1		
+Nasser Saffarian	1		
+Nasser Taghvai	1		
+Nathan Greno	1		
+Nathan Hertz	1		
+Nathaniel Kahn	1		
+Nazy Mustafa	2		
+Neal Hutcheson	1		
+Ned Judge	1		
+Neil Burger	2		
+Neil Diamond	1		
+Neil Docherty	2		
+Neil Jordan	4		
+Neil La	1		
+Neil Marshall	1		
+Neill Blomkamp	1		
+Nelson Ponta	1		
+Nic Young	1		
+Nicholas Barker	1		
+Nicholas Hytner	1		
+Nicholas Meyer	2		
+Nicholas R	1		
+Nicholas Ray	6		
+Nicholas Renton	1		
+Nick	1		
+Nick Cassavetes	1		
+Nick Havinga	1		
+Nick Hughes	1		
+Nick Simon	1		
+Nicola Seare	2		
+Nicolas Cage	1		
+Nicolas Pallay	1		
+Nicolas Roeg	6		
+Nicolas Rossier	2		
+Nicole Boxer	1		
+Niels Arden Oplev	1		
+Nigel Cole	1		
+Nigel Finch	1		
+Nigel Wattis	1		
+Nikhil Advani	2		
+Nikita Mikhalkov	2		
+Nikos Psacharopoulos	1		
+Nilosree Biswas	1		
+Nina Rosenblum	1		
+Nir Bergman	2		
+Nisha Pahuja	2		
+Noah Baumbach	1		
+Noboru Iguchi	1		
+Nobuhiko Obayashi	1		
+Nobuo Nakagawa	1		
+Noel Black	1		
+Noga Ashkenazi	1		
+Nora Twomey	1		
+Norifumi Suzuki	1		
+Norio Tsuruta	1		
+Norman Jewison	2		
+Norman Lloyd	1		
+Normand Destardins	1		
+Nunnally Johnson	1		
+Nuri Bilge Ceylan	2		
+Oak Lea	1		
+Obie Benz	1		
+Ofir Trainin	1		
+Ofra Bikel	2		
+Olga Nakkas	1		
+Oliver Hirschbiegel	1		
+Oliver Parker	3		
+Oliver Stone	16		
+Olivia Klaus	1		
+Oren Jacoby	1		
+Oren Moverman	1		
+Oren Rudavsky	1		
+Oren Stern	1		
+Orsen Welles	1		
+Orson Welles	3		
+Oscar	1		
+Oscar Micheaux	2		
+Oscar Ruiz Navia	1		
+Otto Preminger	6		
+Owsley Brown I	1		
+Oxide Pang	1		
+Oz Scott	1		
+P	1		
+Pablo Fendrik	1		
+Pablo Garcia	11		
+Pablo Giorgelli	2		
+Pablo Larrain	1		
+Packy Mc	2		
+Pam Glennon	1		
+Pamela Mason Wagner	1		
+Pamela Roberts	1		
+Pankuj Parashar	1		
+Panos Cosmatos	1		
+Pao Hsueh	1		
+Paolo Agazzi	1		
+Park Chan	2		
+Park Hoon	1		
+Park Ki	1		
+Park Kwang	1		
+Partho Sen	1		
+Parvez Sharma	1		
+Patrice Leconte	3		
+Patricia Amlin	1		
+Patricia Cardozo	1		
+Patricia Saunders	1		
+Patrick Lussier	1		
+Patrick Mario Bernard	1		
+Patrick Reed	1		
+Paul Andrew Williams	1		
+Paul Bogart	5		
+Paul Brickman	1		
+Paul Bryers	1		
+Paul Cowan	1		
+Paul E	1		
+Paul Eedle	1		
+Paul Fejos	1		
+Paul Greengrass	1		
+Paul Haggis	1		
+Paul Leni	3		
+Paul Mariano	1		
+Paul Mazursky	2		
+Paul Miller	1		
+Paul O	1		
+Paul Oremland	1		
+Paul Pissanos	2		
+Paul Schrader	2		
+Paul Sills	1		
+Paul Stern	1		
+Paul Thomas Anderson	4		
+Paul Verhoeven	7		
+Paul Wagner	1		
+Paul Wegener	2		
+Paul Weitz	1		
+Paul Wilkes	1		
+Paula Hernandez	1		
+Paula Morgado	1		
+Pavel Giroud	1		
+Pavel Lounguine	1		
+Pawel Pawlikowski	1		
+Pedr James	1		
+Pedro Almodovar	3		
+Peggy Scott Laborde	1		
+Pema Gellek	1		
+Pepita Ferrari	1		
+Per Holmes	1		
+Per Lindberg	1		
+Perry Henzell	1		
+Pete Docter	2		
+Pete Travis	1		
+Peter Bate	1		
+Peter Batty	5		
+Peter Bisanz	1		
+Peter Bogdanovich	2		
+Peter Brook	2		
+Peter Cattaneo	1		
+Peter Cohn	1		
+Peter Collinson	1		
+Peter Cregeen	2		
+Peter Davis	2		
+Peter Gardos	1		
+Peter Getzels	1		
+Peter Glenville	1		
+Peter Greenaway	7		
+Peter Hafner	1		
+Peter Hanson	1		
+Peter Hercombe	1		
+Peter Hyams	1		
+Peter Jackson	4		
+Peter Jones	4		
+Peter Kosminsky	1		
+Peter Levin	1		
+Peter Lydon	1		
+Peter Medak	2		
+Peter Nicholson	1		
+Peter Raymont	1		
+Peter Reichelt	1		
+Peter Rosen	1		
+Peter Sasdy	2		
+Peter Segal	1		
+Peter Smith	1		
+Peter Sollett	1		
+Peter Walker	1		
+Peter Watkins	4		
+Peter Weir	4		
+Peter Wellington	1		
+Peter Yates	1		
+Phil Alden Robinson	1		
+Phil Grabsky	1		
+Phil Joanou	1		
+Phil Karlson	1		
+Phil Rosen	1		
+Philip B	2		
+Philip Cullen	1		
+Philip D	1		
+Philip Day	2		
+Philip Kaufman	2		
+Philip Leacock	1		
+Philip Martin	1		
+Philip Saville	1		
+Philip Smith	1		
+Philipp Stolzl	1		
+Philippe Aractingi	1		
+Philippe Muyl	1		
+Philippe Triboit	2		
+Phillip Montgomery	1		
+Phillip Noyce	2		
+Phoebe Ferguson	1		
+Phylis Geller	1		
+Pia Marais	1		
+Pier Paolo Pasolini	3		
+Pierre	1		
+Pierre Mignault	1		
+Pierre Salvadori	1		
+Piers Haggard	1		
+Pietro Francisci	1		
+Pilar Prassas	1		
+Pitof	1		
+Polly Morland	1		
+Pong Chun	1		
+Poul	1		
+Prasanna Vithanage	3		
+Preston Sturges	4		
+Q	1		
+Queen Muhammad Ali	1		
+Quentin Brown	2		
+Quentin Tarantino	7		
+R	2		
+Ra	1		
+Rachel Dretzin	2		
+Rachel Dretzin Goodman	1		
+Rachel Grady	1		
+Rachel Raimist	1		
+Rachel Talbot	1		
+Radu Mihaileanu	2		
+Rafi Pitts	2		
+Rahul Dholakia	1		
+Rainer Maria Fassbinder	1		
+Rainer Werner Fassbinder	4		
+Raj Kapoor	2		
+Rakesh Omprakash Mehra	1		
+Rakhshan Bani	1		
+Ralph Bakshi	1		
+Ralph Fiennes	1		
+Ralph Hemecker	1		
+Ralph Levy	2		
+Ralph Nelson	1		
+Ralph Ziman	1		
+Ramadan Suleman	1		
+Ramesh Sippy	1		
+Ramin Serry	1		
+Randal Kleiser	1		
+Randolph Benson	1		
+Raney Aronson	2		
+Raoul Peck	2		
+Raoul Walsh	11		
+Raphael Nadjari	2		
+Rashid Masharawi	1		
+Raul Haig	1		
+Ravi Chopra	1		
+Ray Ashley	1		
+Ray Lawrence	1		
+Ray Muller	1		
+Raymond W	1		
+Raymonde Provencher	1		
+Raymundo Gleyzer	1		
+Rebecca Haimowitz	1		
+Rebecca Harrell Tickell	1		
+Rebecca Jones	1		
+Rebekah Wingert	1		
+Regan Pretlow Brashear	1		
+Reginald Barker	1		
+Reiner E	1		
+Remigiusz Sowa	1		
+Renata Celichowska	1		
+Rene Clair	3		
+Rene Claire	2		
+Rene Laloux	1		
+Renee Rosen	1		
+Renen Schorr	1		
+Renny Harlin	1		
+Renny Rye	1		
+Rhonda Fabian	8		
+Rian Johnson	4		
+Ric Burns	8		
+Ricardo Lobo	1		
+Ricardo Preve	1		
+Rich Pontius	1		
+Richard Alan Elias	1		
+Richard Attenborough	2		
+Richard Barber	1		
+Richard Bedser	1		
+Richard Benjamin	1		
+Richard Brooks	2		
+Richard Burton	1		
+Richard Denton	1		
+Richard Dindo	1		
+Richard Fleischer	5		
+Richard Franklin	1		
+Richard Fung	1		
+Richard Glatzer	2		
+Richard Gordon	1		
+Richard I	1		
+Richard Kelly	1		
+Richard Knox Robinson	1		
+Richard La	1		
+Richard Lester	2		
+Richard Linklater	4		
+Richard M	1		
+Richard Marquand	1		
+Richard Moore	1		
+Richard Oswald	1		
+Richard P	1		
+Richard Pearce	1		
+Richard Rush	1		
+Richard Schickel	1		
+Richard T	1		
+Richard Thorpe	4		
+Richard Tuggle	1		
+Richard Wallace	1		
+Richard Wilson	1		
+Rick Young	5		
+Ricki Stern	1		
+Ricky Gervais	2		
+Ridley Scott	9		
+Ritu Sarin	2		
+Riva Freifeld	1		
+Rob Cohen	1		
+Rob Coldstream	2		
+Rob Epstein	4		
+Rob Marshall	1		
+Rob Reiner	2		
+Rob Stewart	1		
+Robby Henson	1		
+Robert Aldrich	6		
+Robert Altman	9		
+Robert Benedetti	1		
+Robert Benton	2		
+Robert Bresson	1		
+Robert Butler	1		
+Robert C	1		
+Robert Cannon	1		
+Robert Connolly	1		
+Robert Cornellier	1		
+Robert Dornhelm	1		
+Robert Duvall	1		
+Robert Eggers	1		
+Robert Flaherty	1		
+Robert Gardner	1		
+Robert Greenwald	1		
+Robert Guediguian	2		
+Robert Hamer	2		
+Robert Hillman	1		
+Robert Kalfin	1		
+Robert Kenner	4		
+Robert Lemelson	7		
+Robert Lewis	1		
+Robert Luketic	1		
+Robert M	1		
+Robert Mandel	1		
+Robert Mc	2		
+Robert Montgomery	2		
+Robert Mugge	1		
+Robert Mulligan	3		
+Robert Pulcini	1		
+Robert Redford	2		
+Robert Richter	1		
+Robert Rodriguez	4		
+Robert Rossen	2		
+Robert Siodmak	8		
+Robert Stevenson	2		
+Robert Stone	1		
+Robert Stromberg	1		
+Robert Townsend	2		
+Robert Wiene	1		
+Robert Wise	7		
+Robert Z	2		
+Robert Zemeckis	2		
+Roberto Benigni	1		
+Roberto Minervini	1		
+Roberto Rossellini	2		
+Rodley Scott	1		
+Rodney Bennett	5		
+Rodney Evans	1		
+Rodrigo Furth	1		
+Rodrigo Vazquez	1		
+Roger Allers	2		
+Roger Corman	3		
+Roger Donaldson	1		
+Roger Michell	1		
+Roger Spottiswoode	1		
+Roger Vadim	1		
+Roger Weisberg	1		
+Rogier Kappers	1		
+Roland Emmerich	2		
+Roland Joffe	1		
+Roland Portiche	1		
+Rolf Schubel	1		
+Roman Polanski	8		
+Ron Clements	1		
+Ron Howard	4		
+Ron Meyer	2		
+Ronald F	1		
+Ronald Neame	5		
+Ronald Wilson	1		
+Ronaldo Morelos	1		
+Rory Kennedy	1		
+Roscoe Arbuckle	1		
+Rosie Schellenberg	1		
+Ross Kauffman	1		
+Ross Mc	1		
+Rouben Mamoulian	6		
+Rowdy Herrington	1		
+Rowland V	1		
+Roxana Walker	1		
+Roy Andersson	1		
+Roy Baker	1		
+Roy Ward Baker	2		
+Ruben Fleischer	1		
+Rudi Boon	1		
+Rudolph Mate	2		
+Ruedi Gerber	1		
+Rupert Julian	1		
+Rupert Sanders	1		
+Russell Mulcahy	1		
+Russell Treyz	1		
+Ryan Coogler	2		
+Ryan Fleck	1		
+Ryu Seung	1		
+Ryuichi Hiroki	1		
+S	3		
+Sabaah Folayan	1		
+Salvador Aguirre	1		
+Sam	1		
+Sam Mendes	3		
+Sam Peckinpah	3		
+Sam Pillsbury	1		
+Sam Pollard	2		
+Sam Raimi	5		
+Sam Wood	10		
+Samantha Futerman	1		
+Samuel Fuller	2		
+Samuel Maoz	1		
+Sandra Dickson	1		
+Sandy Mc	1		
+Sang	2		
+Sang Hu	1		
+Sanjay Gadhvi	2		
+Sanjay Leela Bhansali	3		
+Sanjeev Sivan	1		
+Santiago Mitre	1		
+Sara Lamm	1		
+Sarah Colt	2		
+Sarah Harding	1		
+Sarah Spinks	1		
+Satoshi Kon	3		
+Satti Khanna	1		
+Satyajit Ray	3		
+Saul Bass	1		
+Saul J	1		
+Scandar Copti	1		
+Scot Mc	1		
+Scott Cooper	1		
+Scott Hicks	1		
+Scott Sidney	1		
+Scott Thigpen	1		
+Sean Baker	1		
+Sean Fine	1		
+Sean S	1		
+Sebastian Campos	1		
+Sebastian Cordero	1		
+Sebastian Junger	1		
+Seijun Suzuki	3		
+Semih Kaplanoglu	3		
+Semyon Aranovich	2		
+Serge Bozon	1		
+Sergei Bodrov	1		
+Sergei Dvortsevoy	1		
+Sergei Eisenstein	4		
+Sergei Paradjanov	1		
+Sergio Arau	1		
+Sergio Giordani	2		
+Sergio Giral	1		
+Sergio Leone	3		
+Seth Holt	1		
+Seth Kramer	2		
+Shai Kannot	1		
+Shainee Gabel	1		
+Shaji Karun	1		
+Shakti Butler	2		
+Shamim Sarif	1		
+Shaohong Li	1		
+Sharon Howard	1		
+Sharon I	1		
+Sharon Linezo Hong	1		
+Sharon Sopher	1		
+Shaul	2		
+Shawn Levy	2		
+Shawney Cohen	1		
+Shekhar Kapur	2		
+Shelley Williams	1		
+Shemi Zarhin	4		
+Shimit Amin	1		
+Shimon Dotan	1		
+Shin Terra	1		
+Shinichiro Watanabe	2		
+Shinji Aramaki	1		
+Shirikiana Aina	1		
+Shohei Imamura	2		
+Shosuke Murakami	1		
+Shuki Levy	1		
+Shula Erenberg	1		
+Shunji Iwai	1		
+Shyam Benegal	3		
+Si	1		
+Sidney Franklin	1		
+Sidney Gilliat	1		
+Sidney Hayers	1		
+Sidney Lanfield	1		
+Sidney Lumet	10		
+Sidney M	1		
+Sidney Poitier	1		
+Silvio Soldini	1		
+Simcha Jacobovici	1		
+Simisola Opeoluwa	1		
+Simon Ardizzone	1		
+Simon Curtis	3		
+Simon Fellows	1		
+Simon Nasht	1		
+Simon Stone	1		
+Simon Wells	1		
+Simon West	1		
+Sir Jeremy Isaacs	1		
+Slava Tsukerman	1		
+Slawomir Grunberg	3		
+So	1		
+Sonali Fernando	1		
+Song Il	1		
+Sophie Barthes	1		
+Sophie Bissonnette	1		
+Sori	1		
+Spencer Williams	1		
+Spike Jonze	7		
+Spike Lee	9		
+St	1		
+Stacy Keach	2		
+Stan Lathan	1		
+Stanislav Stanojevic	1		
+Stanley Donen	3		
+Stanley Kramer	4		
+Stanley Kubrick	24		
+Stanley Nelson	6		
+Stanley Tong	1		
+Stanley Tucci	1		
+Stefan Sagmeister	1		
+Stefanie Jordon	1		
+Stefanie Sycholt	1		
+Stefen Fangmeier	1		
+Stephane Begoin	1		
+Stephane Brize	1		
+Stephanie Black	3		
+Stephen Chow	1		
+Stephen Daldry	1		
+Stephen Frears	7		
+Stephen Gaghan	1		
+Stephen Herek	3		
+Stephen Ives	5		
+Stephen Poliakoff	2		
+Stephen Porter	3		
+Stephen Schwartz	1		
+Stephen Surjik	1		
+Stephen Tyler	1		
+Stephen Walker	1		
+Stephen Whittaker	1		
+Sterlin Harjo	1		
+Stevan Riley	1		
+Steve Binder	1		
+Steve Boettcher	1		
+Steve James	3		
+Steve Jodrell	1		
+Steve Mc	3		
+Steven Berkoff	1		
+Steven Budlong	1		
+Steven Lisberger	1		
+Steven Robman	1		
+Steven Soderbergh	7		
+Steven Spielberg	17		
+Steven Zaillian	1		
+Stevenson J	2		
+Steward Bird	1		
+Stuart Baird	1		
+Stuart Burge	3		
+Stuart Cooper	1		
+Stuart Gordon	1		
+Stuart Heisler	2		
+Stuart Patton	1		
+Stuart Rosenberg	4		
+Stuart Schulberg	1		
+Sturla Gunnarsson	1		
+Sue Heel	1		
+Sue Williams	5		
+Sue Wilson	1		
+Sufyan Omeish	1		
+Sung	1		
+Susan Cornwell	1		
+Susan Ericsson	1		
+Susan Hurley	1		
+Susan Levitas	1		
+Susan Longmire	1		
+Susan Macmillan	1		
+Susan Polis Schutz	1		
+Susan Steinbach	1		
+Susana Munoz	1		
+Susannah Ward	2		
+Susanne Mason	1		
+Susanne Moss	1		
+Susie Reid	1		
+Sut Jhally	14		
+Sydney Macartney	1		
+Sydney Pollack	6		
+Sylvain Chomet	1		
+Sylvia Morales	1		
+T	1		
+Tad Fettig	1		
+Taggart Siegel	1		
+Taghreed Elsanhouri	1		
+Takashi Ishii	1		
+Takashi Miike	2		
+Takeshi Kitano	3		
+Tamara Tam	1		
+Tami Gold	2		
+Tan Chui Mui	1		
+Tanaka Noboru	1		
+Tania Kamal	1		
+Tareque Masud	1		
+Tarsem Singh	1		
+Tarsem Singh Dhandwar	1		
+Tarun Mansukhani	1		
+Tate Taylor	1		
+Tatiana Lioznova	1		
+Tawfik Abu Wael	2		
+Tawfik Saleh	1		
+Tay Garnett	1		
+Taylor Hackford	1		
+Ted Demme	1		
+Ted Kotcheff	2		
+Ted Post	15		
+Ted Unarce	1		
+Teddy Mattera	1		
+Teller	1		
+Terence Davies	1		
+Terence Davis	1		
+Terence Fisher	6		
+Terence Young	1		
+Teresa Prata	1		
+Terrence Malick	8		
+Terri De	1		
+Terry Carlyon	1		
+Terry George	1		
+Terry Gilliam	6		
+Terry Jones	2		
+Terry Sanders	2		
+Terry Winsor	1		
+Terry Zwigoff	2		
+Teruo Ishii	1		
+The Spierig Brothers	2		
+Theo Angelopoulos	3		
+Theodore Bezaire	1		
+Theodore Melfi	1		
+Theodorus Bafaloukos	1		
+Therese Shechter	1		
+Thomas Arslan	1		
+Thomas Grimm	1		
+Thomas Jennings	1		
+Thomas Lennon	1		
+Thomas Lucas	1		
+Thomas Ott	1		
+Thor Freudenthal	1		
+Thorold Dickinson	1		
+Thuy Tien Ho	1		
+Tia Lessin	3		
+Tian Zhuangzhuang	1		
+Tim Burton	10		
+Tim Fyell	1		
+Tim Fywell	1		
+Tim Grabham	1		
+Tim Hetherington	1		
+Tim Hunter	1		
+Tim Johnson	1		
+Tim Lay	1		
+Tim Robbins	2		
+Tim Roth	1		
+Tim Story	1		
+Tim Wolff	2		
+Timothy Copestake	2		
+Timothy Hines	1		
+Timothy Hutton	1		
+Timur Bekmambetov	2		
+Tito Davison	1		
+Tobe Hooper	1		
+Tod Browning	2		
+Todd Berger	1		
+Todd Haynes	5		
+Todd Jarrell	1		
+Todd Louiso	1		
+Todd Solondz	2		
+Tolga Ornek	1		
+Tom Heinemann	1		
+Tom Holland	1		
+Tom Hooper	6		
+Tom Jackson	1		
+Tom Lafia	1		
+Tom Mc	3		
+Tom O	1		
+Tom Page	1		
+Tom Roberts	1		
+Tom Shankland	1		
+Tom Six	1		
+Tom Todoroff	2		
+Tom Vaughan	1		
+Tommy Davis	1		
+Tommy Pallotta	1		
+Tomoo Ueno	1		
+Tonino Valerii	1		
+Tony Giglio	1		
+Tony Lam	1		
+Tony Richardson	2		
+Tony Scott	5		
+Tony Wesley	1		
+Torgeir Wethal	1		
+Torrill Kove	1		
+Toshiharu Ikeda	1		
+Toshihiro Gotoh	1		
+Toyoo Ashida	1		
+Tracy Heather Strain	1		
+Trevor Nunn	1		
+Trey Parker	1		
+Trinh T	1		
+Troy Miller	1		
+Tsui Hark	1		
+Tulio Demicheli	1		
+Tyrone Guthrie	1		
+Udayan Prasad	2		
+Uli Edel	1		
+Ulrich Weiss	1		
+Ulu Grosbard	1		
+Uri Barbash	1		
+Uri Zohar	1		
+Ursula Biemann	2		
+Vadim Perelman	1		
+Vaishali Sinha	1		
+Valery Todorovsky	1		
+Valliere Richard Auzenne	1		
+Vanessa Lapa	1		
+Vanessa Tovell	1		
+Vic Sarin	1		
+Vicki Dunakin	1		
+Vicky Funari	1		
+Victor Erice	3		
+Victor Fleming	6		
+Victor Halperin	1		
+Victor Khulile Nxumalo	1		
+Victor Saville	1		
+Victor Schertzinger	2		
+Victor Viyuoh	1		
+Video Wayne	1		
+Vikram Gandhi	1		
+Vilgot Sjoman	1		
+Vincent Morelli	1		
+Vincent Sherman	4		
+Vincente Minnelli	9		
+Vinnette Carroll	1		
+Violeta Ayala	1		
+Vitali Manski	1		
+Vittorio	1		
+Vittorio De Sica	4		
+Vladimir Bortko	1		
+Vojtech Jasny	1		
+Volker Schlondorff	3		
+Vsevolod Pudovkin	1		
+W	3		
+Wael Dabbous	1		
+Wallace Worsley	2		
+Wally Ashby	1		
+Wally Wolodarsky	1		
+Walter Bernstein	1		
+Walter Hill	1		
+Walter Lang	5		
+Walter Salles	3		
+Walther Ruttmann	1		
+Wang Quan An	1		
+Warwick Thornton	1		
+Wayne Beach	1		
+Wayne Coyne	1		
+Wayne Wang	2		
+Werner Herzog	5		
+Wes Anderson	7		
+Wes Ball	1		
+Wes Craven	1		
+Whit Stillman	1		
+Will Speck	1		
+William A	4		
+William Arntz	1		
+William Asher	1		
+William Ball	2		
+William C	1		
+William Cameron Menzies	2		
+William Crain	1		
+William Cran	4		
+William Desmond Taylor	1		
+William Dieterle	4		
+William Friedkin	2		
+William Keighley	2		
+William Long	1		
+William Peters	2		
+William Shatner	1		
+William Slater	1		
+William Wiard	1		
+William Wyler	15		
+Wim Wenders	3		
+Wladyslaw Pasikowski	1		
+Wolfgang Petersen	1		
+Wolfgang Reitherman	1		
+Wolfgang Staude	1		
+Wolfgang Staudte	1		
+Woodie King	1		
+Woody Allen	25		
+Xan Cassavetes	1		
+Xavier Villetard	1		
+Xiao Lang	1		
+Xiaoli Zhou	1		
+Yakov Protazanov	1		
+Yale Strom	5		
+Yang Yun	1		
+Yash Chopra	2		
+Yasujiro Ozu	4		
+Yeo Kyun	1		
+Yesim Ustaoglu	1		
+Yimou Zhang	1		
+Yip Wai	1		
+Yoav Potash	1		
+Yorgos Lanthimos	1		
+Yoshiaki Kawajiri	1		
+Yoshiyuki Tomino	1		
+Youghi Yang	1		
+Young Man Kang	1		
+Youssef Chahine	3		
+Yousseff Chahine	1		
+Yukihiko Tsutsumi	2		
+Yulie Gerstel	1		
+Yunah Hong	1		
+Yung Chang	1		
+Yuval Adler	1		
+Yvonne Welbon	1		
+Zach Braff	1		
+Zacharias Kunuk	1		
+Zack Godshall	1		
+Zack Snyder	2		
+Zaki Hj	1		
+Zalman King	2		
+Zbigniew Kuzminski	1		
+Zeinabu Irene Davis	1		
+Zeresenay Berhane Mehari	1		
+Zeze Gamboa	1		
+Zeze Takahisa	1		
+Zhang Yimonu	1		
+Zhang Yimou	7		
+Zinon Ramos	1		
+Zola Maseko	1		
+Zoltan Korda	1		
+J. Darin Wales	1		
+J. Lee Thompson	4		
+J.J. Abrams	2		
+J.P. Dutta	2		
+J.T. Takagi	1		
