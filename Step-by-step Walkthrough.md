@@ -5,13 +5,12 @@
 ### Catalog records to txt file
 (best recollections)
 The most useful field I found to pull up movies without getting too many additional records or missing many records was to
-search call number for "DVD ". "M-DVD" and "BRV" would need to be included for a complete list, but most M-DVDs won't have a traditional director, and the BRV list is very small. I then used an export feature to harvest those MARC files, pulled them into MARCEdit, and harvested
-only the most important fields into a tab-delimited text file.
+search call number for "DVD ". "M-DVD" and "BRV" would need to be included for a complete list, but most M-DVDs won't have a traditional director, and the BRV list is very small. I then used an export feature (in our case, vgerselect) to harvest those MARC files, pulled them into MARCEdit, and harvested only the most important fields into a tab-delimited text file.
 
 ### Txt file to useable data for Python
-Used OpenRefine and GREL to pull out the first name in the 700 fields. It is possible that this work could be made unnecessary
+Used OpenRefine and GREL/Jython to pull out the first name in the 700 fields. It is possible that this work could be made unnecessary
 if a skilled MARCEdit user can pull only the 700 fields with dir, director, (Director), or another indication of the director.
-This would also improve the accuracy, because currently a small minority of the names we pulled are not the director of the film.
+This would also improve the accuracy, because currently a small minority of the names we pulled are not the director of the film. However, the current scripts we used can be found at [rtilla/JythonScripts](https://github.com/rtilla1/JythonScripts).
 
 ### Use data to identify which webpages need to be scraped
 This is the current step. It will likely be an interative process of trying a particular website, and exploring which makes it
